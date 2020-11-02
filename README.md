@@ -1,6 +1,6 @@
 # First-Implementation-of-Dense-Neural-Network
 
-This is a course project applying dense neural network modeling during the Intro to Deep Learning course I am taking in UConn in Fall 2020.
+This is a course project applying dense neural network modeling during the Intro to Deep Learning course I am taking at UConn in Fall 2020.
 
 In this project my teammates and I have created a data set merging lung cancer data with health insurance, poverty, and income data to predict the cancer mortality rate (source: https://data.world/nrippner/cancer-linear-regression-model-tutorial/workspace/data-dictionary). 
 
