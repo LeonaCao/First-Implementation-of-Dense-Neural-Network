@@ -1,4 +1,4 @@
-# First-Implementation-of-Dense-Neural-Network
+# Lung-Cancer-Mortality-Rate-Prediction
 
 This is a course project applying dense neural network modeling during the Intro to Deep Learning course I am taking at UConn in Fall 2020.
 
